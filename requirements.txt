@@ -1,0 +1,5 @@
+streamlit>=1.40,<2
+requests>=2.32,<3
+cryptography>=44,<47
+pillow>=11,<13
+imageio-ffmpeg>=0.6,<1
